@@ -5,12 +5,10 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif, system-ui;
 }
-
 body {
   color: #333;
   background-color: #fff;
 }
-
 a {
   text-decoration: none;
   color: inherit;
